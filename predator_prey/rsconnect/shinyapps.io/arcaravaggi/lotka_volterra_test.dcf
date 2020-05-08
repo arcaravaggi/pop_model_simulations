@@ -1,0 +1,12 @@
+name: lotka_volterra_test
+title: lotka_volterra_test
+username:
+account: arcaravaggi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2265898
+bundleId: 3119967
+url: https://arcaravaggi.shinyapps.io/lotka_volterra_test/
+when: 1588933117.40781
+asMultiple: FALSE
+asStatic: FALSE
